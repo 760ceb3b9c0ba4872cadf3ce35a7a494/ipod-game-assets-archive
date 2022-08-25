@@ -7,8 +7,11 @@ Textures were converted from .dat files within the `/textures` directory.
 The subfolder `statictexbank` contains the textures that were contained inside of the `/textures/statictexbank.dat` file rather than as individual files.
 
 ## Sounds
+> **Warning**  
+> All sounds were exported in mono - this may not be correct.  
+
 `a.m4a` and `b.m4a` were copied from the game's root directory.  
-The subfolder `soundbank1` contains the sounds that were contained inside of the `audio/soundbank1.dat` file.
+The subfolder `soundbank1` contains the sounds that were contained inside of the `audio/soundbank1.dat` file. 
 
 ### Index
 | Name                                       | Sample Rate   | ???    |
